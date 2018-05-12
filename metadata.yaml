@@ -1,0 +1,31 @@
+_repo: General-Smith-s-Views-of-the-Powers-and-Policy-of-the-Government-of-the-United-States_45006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Joseph, Jr.
+    alias: Smith, Joseph
+    birthdate: 1805
+    deathdate: 1844
+    gutenberg_agent_id: '12'
+    url: http://www.gutenberg.org/2009/agents/12
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormons'
+- !lcsh 'Church and state -- Mormon Church'
+- !lcc 'BX'
+title: General Smith's Views of the Powers and Policy of the Government of the United
+  States
+url: http://www.gutenberg.org/ebooks/45006
