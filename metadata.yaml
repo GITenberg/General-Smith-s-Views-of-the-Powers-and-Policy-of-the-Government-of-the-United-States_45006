@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/12
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45006#General-Smith-s-Views-of-the-Powers-and-Policy-of-the-Government-of-the-United-States
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-02-25'
 gutenberg_type: Text
